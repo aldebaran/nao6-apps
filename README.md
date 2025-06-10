@@ -1,3 +1,5 @@
+### NAO6 Applications
+
 We are saddened to announce that Aldebaran, the company behind the Romeo, NAO, Pepper, and Plato robots, is officially shutting down.
 
 Founded in 2005, Aldebaran was a global leader in humanoid robotics, known for its groundbreaking work in human-robot interaction, social robotics, and AI-powered behavior systems. Aldebaran robots have been widely adopted in education, healthcare, and research, with NAO, Pepper, and Plato used in thousands of schools, universities, therapy centers, and public spaces, worldwide.
@@ -8,10 +10,9 @@ Until then, the community and existing users of Aldebaran robots can still acces
 
 🔧  Available Resources:
 
-- NAO6 SDKs 
-- NAO6 binaries (System image, Choregraphe and Robot Service)
-- NAO6 applications
-- NAO6 & Pepper documentation
+[- Pepper & NAO6 Documentation](https://github.com/aldebaran/nao6-doc-sdk) 
+[- NAO6 binaries](https://github.com/aldebaran/nao6-binaries) 
+[- NAO6 applications](https://github.com/aldebaran/nao6-apps) 
 
 We encourage developers, educators, and researchers to continue collaborating and sharing knowledge to keep the spirit of Aldebaran's work alive. It's more important than ever for the community to share knowledge and tools to sustain these robots.
 
