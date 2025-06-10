@@ -10,9 +10,9 @@ Until then, the community and existing users of Aldebaran robots can still acces
 
 🔧  Available Resources:
 
-[- Pepper & NAO6 Documentation](https://github.com/aldebaran/nao6-doc-sdk) 
-[- NAO6 binaries](https://github.com/aldebaran/nao6-binaries) 
-[- NAO6 applications](https://github.com/aldebaran/nao6-apps) 
+- [Pepper & NAO6 Documentation](https://github.com/aldebaran/nao6-doc-sdk) 
+- [NAO6 binaries](https://github.com/aldebaran/nao6-binaries) 
+- [NAO6 applications](https://github.com/aldebaran/nao6-apps) 
 
 We encourage developers, educators, and researchers to continue collaborating and sharing knowledge to keep the spirit of Aldebaran's work alive. It's more important than ever for the community to share knowledge and tools to sustain these robots.
 
